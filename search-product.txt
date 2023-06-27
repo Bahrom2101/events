@@ -1,0 +1,1 @@
+[2023-06-27T10:51:30.555571] search-product, company_id: ed9fafe3-07f7-4655-8f05-09cb05d5fddc, user_id: e1f71000-de32-4187-ae8b-4f41c3e4a8cf
