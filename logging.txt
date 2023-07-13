@@ -1,7 +1,0 @@
-[2023-07-13T20:02:25.933200]     locale: en_UZ,
-    operatingSystem: macos,
-    operatingSystemVersion: Version 13.4.1 (Build 22F82),
-    model: MacBookAir10,1,
-    memorySize: 8589934592,
-    resolution: 1800.0x2880.0
-    , company_id: 5760600f-700b-4bdf-b64d-7cbc0c75bbb9, user_id: f12fd623-b227-49d4-97f1-13ab0c3af4fa
