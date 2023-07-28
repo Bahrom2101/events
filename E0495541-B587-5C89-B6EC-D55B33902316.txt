@@ -1,0 +1,12 @@
+[2023-07-28T17:03:41.651962]     locale: ru_UZ,
+    operatingSystem: macos,
+    operatingSystemVersion: Version 13.5 (Build 22G74),
+    model: MacBookAir10,1,
+    memorySize: 8589934592,
+    screen: 1600.0 x 1200.0,
+    resolution: 1200.0 x 1600.0,
+    company_id: ,
+    user_id: null,
+    deviceID: E0495541-B587-5C89-B6EC-D55B33902316
+    app version: 
+    
